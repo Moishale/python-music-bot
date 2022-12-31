@@ -1,6 +1,5 @@
 import discord
 import wavelink
-import datetime
 
 from discord.ext import commands 
 
