@@ -187,7 +187,3 @@ async def resume(ctx: commands.Context):
 
 
 bot.run('Your_Token')
-
-
-
-
