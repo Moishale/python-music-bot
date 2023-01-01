@@ -15,9 +15,14 @@ pip3 install -r requirements.txt
 ```
 
 
+### LavaLink     
+```bash
+java -jar lavalink.jar  
+ ```
+
+
 ### Commands
-    
-    Music Commands:
+
         - !play : aliases -> [p]
         - !pause : aliases -> [pa]
         - !resume : aliases -> [r]
@@ -27,5 +32,4 @@ pip3 install -r requirements.txt
     Voice Commands:
     - !connect : aliases -> [c, con]
     - !disconnect  : aliases -> [d, dis]
-    
 
