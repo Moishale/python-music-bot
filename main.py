@@ -122,7 +122,6 @@ async def disconnect(ctx: commands.Context):
         await ctx.voice_client.disconnect()
     else:
         await ctx.send(embed=discord.Embed(
-            title= 'Message!',
             description='The bot is not connected to a voice channel.',
             color=discord.Colour.random(),
         ))
